@@ -5,6 +5,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>Portfolio</title>
      <link rel="stylesheet" type="text/css" href="style2.css">
+     <link rel="stylesheet" href="script.js2">
  </head>
  <body>
         <h2>Simple calculator</h2>
